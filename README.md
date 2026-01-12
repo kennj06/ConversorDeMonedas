@@ -55,13 +55,15 @@ Durante el desarrollo de este proyecto se aplicaron conceptos clave como:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/kennj06/ConversorDeMonedas.git
-Abre el proyecto en IntelliJ IDEA
+→ Abre el proyecto en IntelliJ IDEA.
 
-Asegúrate de que la biblioteca Gson esté agregada al proyecto
+→ Debes colocar tu propia API key de ExchangeRate API.
 
-Ejecuta la clase Main
+→ Asegúrate de que la biblioteca Gson esté agregada al proyecto.
 
-Sigue las instrucciones que aparecen en la consola
+→ Ejecuta la clase Main.
+
+→ Sigue las instrucciones que aparecen en la consola.
 
 💰 Monedas soportadas
 Actualmente, el conversor permite realizar conversiones desde:
