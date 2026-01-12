@@ -70,10 +70,32 @@ USD – Dólar estadounidense
 
 MXN – Peso mexicano
 
+EUR - Euro
+
+📷 Capturas de pantalla
+
+### Menú principal
+<img width="624" height="268" alt="image" src="https://github.com/user-attachments/assets/df4f48e5-18df-4533-8dd2-ae58b2b365e5" />
+
+
+### Ejemplo de conversión
+
+<img width="519" height="175" alt="image" src="https://github.com/user-attachments/assets/b2230591-8456-4dcc-afcf-54a772564df7" />
+<img width="528" height="94" alt="image" src="https://github.com/user-attachments/assets/3ae80143-86bd-4928-b268-aee0f3b372f9" />
+
+
+
+### Mensaje de salida
+<img width="417" height="186" alt="image" src="https://github.com/user-attachments/assets/7c9c0fa3-42fb-42b3-8064-c975f2d97cc6" />
+
+
+
+
+
 🛑 Estado del proyecto
-✅ Proyecto finalizado
-📌 Versión funcional y estable
-📚 Enfocado en el aprendizaje de Java y consumo de APIs
+Proyecto finalizado
+Versión funcional y estable
+Enfocado en el aprendizaje de Java y consumo de APIs
 
 👩‍💻 Autora
 Proyecto realizado por Kenia Jiménez
